@@ -29,5 +29,5 @@ npm start
 
 ### Authors
 
-- **[Maksim Damaskin](https://github.com/RisingStar-Web)**
+- **[Roy Chong](https://github.com/RisingStar-Web)**
 
